@@ -17,7 +17,6 @@ public class PA1
       file = new File(FileName);
       
       LinkedList<Integer> ll = new LinkedList<Integer>();
-      //input = new Scanner(new File(FileName));
 
       while(!(file).exists())
       { 
